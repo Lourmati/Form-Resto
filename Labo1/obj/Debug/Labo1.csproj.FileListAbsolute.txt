@@ -1,0 +1,30 @@
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\bin\Debug\Labo1.exe.config
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\bin\Debug\Labo1.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\bin\Debug\Labo1.pdb
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.csprojResolveAssemblyReference.cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.Form1.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.Properties.Resources.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.csproj.GenerateResource.Cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Laboratoire 1\Labo1\Labo1\obj\Debug\Labo1.pdb
+C:\Users\1739188\Downloads\Labo1\Labo1\bin\Debug\Labo1.exe.config
+C:\Users\1739188\Downloads\Labo1\Labo1\bin\Debug\Labo1.exe
+C:\Users\1739188\Downloads\Labo1\Labo1\bin\Debug\Labo1.pdb
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.Form1.resources
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.Properties.Resources.resources
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.csproj.GenerateResource.cache
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.exe
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.pdb
+C:\Users\1739188\Downloads\Labo1\Labo1\obj\Debug\Labo1.csprojResolveAssemblyReference.cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\bin\Debug\Labo1.exe.config
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\bin\Debug\Labo1.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\bin\Debug\Labo1.pdb
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.csprojResolveAssemblyReference.cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.Form1.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.Properties.Resources.resources
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.csproj.GenerateResource.Cache
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.exe
+H:\SESSION 4\DÉVELOPPEMENT GRAPHIQUE\Labo1\Labo1\obj\Debug\Labo1.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Resto Form\Labo1\Labo1\obj\Debug\Labo1.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Resto Form\Labo1\Labo1\obj\Debug\Labo1.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Resto Form\Labo1\Labo1\obj\Debug\Labo1.pdb
